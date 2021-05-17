@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96727745727",
+    "project_id": "appturismorestrepo",
+    "storage_bucket": "appturismorestrepo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96727745727:android:8d9bb7ffa642faca8b320a",
+        "android_client_info": {
+          "package_name": "com.example.appaves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96727745727-badmeslmho279kh82ct2bg61dk4do181.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0TZbMrTTFImOHTZ1c6KIte50wIRpLmss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96727745727-badmeslmho279kh82ct2bg61dk4do181.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

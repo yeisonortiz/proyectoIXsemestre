@@ -1,0 +1,43 @@
+name: appaves
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  extended_navbar_scaffold: ^1.0.2+1
+  flutter_vector_icons: ^0.2.0
+  google_maps_flutter: ^2.0.4
+  expandable: ^5.0.1
+  video_player: ^2.1.1
+  image_picker: ^0.7.5
+  firebase_storage: ^8.0.6
+  cloud_firestore: ^2.1.0
+  firebase_core: ^1.1.1
+  flutter:
+    sdk: flutter
+    
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/src/assets/imgInicio.jpg
+    - lib/src/assets/caneyAltoMapa.png
+    - lib/src/assets/marayalMapa.png
+    - lib/src/assets/salinasMapa.png
+
+
